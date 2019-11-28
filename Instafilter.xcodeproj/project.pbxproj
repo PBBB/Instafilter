@@ -13,6 +13,7 @@
 		2BCE4369238FFF0400F72F42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BCE4368238FFF0400F72F42 /* Assets.xcassets */; };
 		2BCE436C238FFF0400F72F42 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BCE436B238FFF0400F72F42 /* Preview Assets.xcassets */; };
 		2BCE436F238FFF0400F72F42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BCE436D238FFF0400F72F42 /* LaunchScreen.storyboard */; };
+		2BCE43772390026600F72F42 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE43762390026600F72F42 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2BCE436B238FFF0400F72F42 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2BCE436E238FFF0400F72F42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BCE4370238FFF0400F72F42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BCE43762390026600F72F42 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2BCE4362238FFF0300F72F42 /* AppDelegate.swift */,
 				2BCE4364238FFF0300F72F42 /* SceneDelegate.swift */,
 				2BCE4366238FFF0300F72F42 /* ContentView.swift */,
+				2BCE43762390026600F72F42 /* ImagePicker.swift */,
 				2BCE4368238FFF0400F72F42 /* Assets.xcassets */,
 				2BCE436D238FFF0400F72F42 /* LaunchScreen.storyboard */,
 				2BCE4370238FFF0400F72F42 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BCE4363238FFF0300F72F42 /* AppDelegate.swift in Sources */,
+				2BCE43772390026600F72F42 /* ImagePicker.swift in Sources */,
 				2BCE4365238FFF0300F72F42 /* SceneDelegate.swift in Sources */,
 				2BCE4367238FFF0300F72F42 /* ContentView.swift in Sources */,
 			);
