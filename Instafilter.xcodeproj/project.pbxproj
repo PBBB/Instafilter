@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B4B45942390D2BE00EEEF27 /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B4B45932390D2BE00EEEF27 /* ImageSaver.swift */; };
 		2BCE4363238FFF0300F72F42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE4362238FFF0300F72F42 /* AppDelegate.swift */; };
 		2BCE4365238FFF0300F72F42 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE4364238FFF0300F72F42 /* SceneDelegate.swift */; };
 		2BCE4367238FFF0300F72F42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE4366238FFF0300F72F42 /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B4B45932390D2BE00EEEF27 /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
 		2BCE435F238FFF0300F72F42 /* Instafilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instafilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BCE4362238FFF0300F72F42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2BCE4364238FFF0300F72F42 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				2BCE4362238FFF0300F72F42 /* AppDelegate.swift */,
 				2BCE4364238FFF0300F72F42 /* SceneDelegate.swift */,
 				2BCE4366238FFF0300F72F42 /* ContentView.swift */,
+				2B4B45932390D2BE00EEEF27 /* ImageSaver.swift */,
 				2BCE43762390026600F72F42 /* ImagePicker.swift */,
 				2BCE4368238FFF0400F72F42 /* Assets.xcassets */,
 				2BCE436D238FFF0400F72F42 /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 			files = (
 				2BCE4363238FFF0300F72F42 /* AppDelegate.swift in Sources */,
 				2BCE43772390026600F72F42 /* ImagePicker.swift in Sources */,
+				2B4B45942390D2BE00EEEF27 /* ImageSaver.swift in Sources */,
 				2BCE4365238FFF0300F72F42 /* SceneDelegate.swift in Sources */,
 				2BCE4367238FFF0300F72F42 /* ContentView.swift in Sources */,
 			);
